@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Amazon Garden</string>
+
+    <string name="splash_title">AMAZON GARDEN</string>
+    <string name="splash_subtitle">RESTORE THE RAINFOREST</string>
+    <string name="splash_loading">LOADING</string>
+
+    <string name="menu_title">AMAZON GARDEN</string>
+    <string name="menu_tagline">ROUTE THE WATER - REVIVE THE GARDEN</string>
+
+    <string name="action_play">PLAY</string>
+    <string name="action_play_again">PLAY AGAIN</string>
+    <string name="action_menu">MENU</string>
+    <string name="action_hint">HINT</string>
+    <string name="action_reset">RESET</string>
+    <string name="action_garden_atlas">GARDEN ATLAS</string>
+    <string name="action_settings">SETTINGS</string>
+    <string name="action_close">CLOSE</string>
+    <string name="action_resume">RESUME</string>
+    <string name="action_restart_level">RESTART LEVEL</string>
+    <string name="action_quit_to_menu">QUIT TO MENU</string>
+    <string name="action_reset_progress">RESET PROGRESS</string>
+    <string name="action_confirm_reset">CONFIRM</string>
+    <string name="action_cancel">CANCEL</string>
+    <string name="action_buy">BUY</string>
+    <string name="action_equip">EQUIP</string>
+    <string name="action_equipped">EQUIPPED</string>
+
+    <string name="zone_mist_basin">MIST BASIN</string>
+    <string name="zone_fern_hollow">FERN HOLLOW</string>
+    <string name="zone_canopy_heights">CANOPY HEIGHTS</string>
+    <string name="zone_daily">DAILY GARDEN</string>
+    <string name="chip_mist_basin">MIST</string>
+    <string name="chip_fern_hollow">FERN</string>
+    <string name="chip_canopy_heights">CANOPY</string>
+    <string name="chip_daily">DAILY</string>
+
+    <string name="game_level">LEVEL %1$d</string>
+    <string name="game_moves">MOVES %1$d / %2$d</string>
+    <string name="game_plants">PLANTS %1$d / %2$d</string>
+    <string name="game_status">%1$d moves left, %2$d of %3$d plants watered</string>
+    <string name="value_ratio">%1$d / %2$d</string>
+
+    <string name="stat_levels">LEVELS</string>
+    <string name="stat_best_run">BEST RUN</string>
+    <string name="stat_plants">PLANTS</string>
+    <string name="stat_moves">MOVES</string>
+    <string name="stat_seeds">SEEDS</string>
+
+    <string name="result_restored">GARDEN RESTORED</string>
+    <string name="result_out_of_moves">OUT OF MOVES</string>
+    <string name="result_withered">THE GARDEN WITHERED</string>
+    <string name="result_new_best">NEW BEST</string>
+    <string name="result_hint_win">THE NEXT CLEARING IS WAITING</string>
+    <string name="result_hint_loss">REROUTE THE SPRING AND TRY ANOTHER PATH</string>
+
+    <string name="atlas_title">GARDEN ATLAS</string>
+    <string name="atlas_not_found">NOT YET FOUND</string>
+    <string name="atlas_restoration">RESTORATION</string>
+    <string name="decoration_cost">%1$d SEEDS</string>
+    <string name="decoration_stone_path">STONE PATH</string>
+    <string name="decoration_lantern_row">LANTERN ROW</string>
+    <string name="decoration_flower_arch">FLOWER ARCH</string>
+
+    <string name="species_golden_orchid">GOLDEN ORCHID</string>
+    <string name="species_golden_orchid_note">A thirsty bloom that only opens under three steady streams.</string>
+    <string name="species_giant_fern">GIANT FERN</string>
+    <string name="species_giant_fern_note">Hardy shade dweller, content with a single channel of water.</string>
+    <string name="species_cacao_sapling">CACAO SAPLING</string>
+    <string name="species_cacao_sapling_note">Young tree that needs two feeds before its pods can swell.</string>
+    <string name="species_blue_morpho">BLUE MORPHO</string>
+    <string name="species_blue_morpho_note">The butterfly returns once a whole clearing drinks again.</string>
+    <string name="species_seed_pouch">SEED POUCH</string>
+    <string name="species_seed_pouch_note">Gathered seeds pay for hints and garden decorations.</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="settings_sound">SOUND</string>
+    <string name="settings_haptics">HAPTICS</string>
+    <string name="settings_hints">SHOW HINTS</string>
+    <string name="settings_reset_warning">This clears every seed, species and cleared level.</string>
+
+    <string name="pause_title">PAUSED</string>
+
+    <string name="state_on">on</string>
+    <string name="state_off">off</string>
+    <string name="state_locked">locked</string>
+    <string name="state_selected">selected</string>
+    <string name="state_available">available</string>
+    <string name="state_unavailable">unavailable</string>
+    <string name="state_owned">owned</string>
+    <string name="state_equipped">equipped</string>
+    <string name="state_tile_dry">dry</string>
+    <string name="state_tile_watered">watered</string>
+    <string name="state_tile_flooded">flooded</string>
+    <string name="state_tile_locked">fixed</string>
+
+    <string name="cd_logo">Amazon Garden emblem</string>
+    <string name="cd_seed_pouch">Seed pouch</string>
+    <string name="cd_blue_morpho">Blue morpho butterfly</string>
+    <string name="cd_giant_fern">Giant fern</string>
+    <string name="cd_back_to_garden">Back to the garden map</string>
+    <string name="cd_pause">Pause the level</string>
+</resources>
